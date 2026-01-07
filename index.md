@@ -1,9 +1,7 @@
 ---
-title: "Xiamen 24-Hour Transit Guide (Kenyan Passport)"
+title: "✈️ Xiamen 24-Hour Transit Guide (Kenyan Passport)"
 layout: default
 ---
-
-# ✈️ Xiamen 24-Hour Transit Guide (Kenyan Passport)
 
 This guide documents a real-life experience of transiting through **Xiamen, China**, on a **Kenyan passport**.
 
