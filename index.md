@@ -1,5 +1,5 @@
 ---
-title: "Xiamen 24-Hour Transit Guide (Kenyan Passport)"
+title: ""
 layout: default
 ---
 
